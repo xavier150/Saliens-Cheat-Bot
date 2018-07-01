@@ -7,3 +7,6 @@ and I am not responsible for any damage that may be caused by the script,  This 
 This script work with AutoHotKey : https://www.autohotkey.com </br>
 Video 1 : https://youtu.be/ETFZs48bOtQ </br>
 Video 2 : https://youtu.be/OztdNI81CRk
+
+About calibration : 
+![Visual calibration help](https://raw.githubusercontent.com/xavier150/Saliens-Cheat-Bot/master/Salien%20calibration%20clic.jpg)
